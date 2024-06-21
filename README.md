@@ -20,7 +20,7 @@ The dataset used in this project is the "Fake and Real News Dataset" available o
 - `Fake.csv`: Contains fake news articles.
 - `True.csv`: Contains real news articles.
 You can download the dataset from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
-The CSV files have also be included in the repository
+
 
 Shuffling
 To ensure that the model does not learn any ordering or position biases from the dataset, we shuffle the dataset before splitting it into training and test sets.
