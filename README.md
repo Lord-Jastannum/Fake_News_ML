@@ -19,6 +19,7 @@ Datasets
 The dataset used in this project is the "Fake and Real News Dataset" available on Kaggle. It consists of two CSV files:
 - `Fake.csv`: Contains fake news articles.
 - `True.csv`: Contains real news articles.
+
 You can download the dataset from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
 
 
